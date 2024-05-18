@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Pokedex\Vista.csproj", "{C976D169-4C82-41D3-803F-9A4F241E8CE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controladores", "Controladores\Controladores.csproj", "{03A00FD2-6DC6-4D30-851A-670E8DF3FF1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{D2BF8D66-2B8B-4242-A6C6-78A3F311BBCD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataBase", "DataBase", "{CF139409-CFEF-45EE-B658-1A736C34FAE4}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Documents\PokeWiki.bak = ..\..\Documents\PokeWiki.bak
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C976D169-4C82-41D3-803F-9A4F241E8CE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C976D169-4C82-41D3-803F-9A4F241E8CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C976D169-4C82-41D3-803F-9A4F241E8CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C976D169-4C82-41D3-803F-9A4F241E8CE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A00FD2-6DC6-4D30-851A-670E8DF3FF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A00FD2-6DC6-4D30-851A-670E8DF3FF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A00FD2-6DC6-4D30-851A-670E8DF3FF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A00FD2-6DC6-4D30-851A-670E8DF3FF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2BF8D66-2B8B-4242-A6C6-78A3F311BBCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2BF8D66-2B8B-4242-A6C6-78A3F311BBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2BF8D66-2B8B-4242-A6C6-78A3F311BBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2BF8D66-2B8B-4242-A6C6-78A3F311BBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09F118B6-9F2B-46A1-9039-66A889088F42}
+	EndGlobalSection
+EndGlobal

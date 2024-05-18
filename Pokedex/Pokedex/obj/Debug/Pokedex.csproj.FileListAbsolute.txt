@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\Pokedex\Pokedex\bin\Debug\Pokedex.exe.config
+C:\Users\hp\source\repos\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+C:\Users\hp\source\repos\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+C:\Users\hp\source\repos\Pokedex\Pokedex\bin\Debug\Controladores.dll
+C:\Users\hp\source\repos\Pokedex\Pokedex\bin\Debug\Controladores.pdb
+C:\Users\hp\source\repos\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Pokedex\Pokedex\obj\Debug\Pokedex.Main.resources
+C:\Users\hp\source\repos\Pokedex\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+C:\Users\hp\source\repos\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.Up2Date
+C:\Users\hp\source\repos\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+C:\Users\hp\source\repos\Pokedex\Pokedex\obj\Debug\Pokedex.pdb

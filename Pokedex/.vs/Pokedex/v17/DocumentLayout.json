@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivani\\POKEDEX\\Pokedex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C976D169-4C82-41D3-803F-9A4F241E8CE0}|Pokedex\\Vista.csproj|C:\\Users\\ivani\\POKEDEX\\Pokedex\\pokedex\\registroregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C976D169-4C82-41D3-803F-9A4F241E8CE0}|Pokedex\\Vista.csproj|solutionrelative:pokedex\\registroregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C976D169-4C82-41D3-803F-9A4F241E8CE0}|Pokedex\\Vista.csproj|C:\\Users\\ivani\\POKEDEX\\Pokedex\\pokedex\\regionesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C976D169-4C82-41D3-803F-9A4F241E8CE0}|Pokedex\\Vista.csproj|solutionrelative:pokedex\\regionesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C976D169-4C82-41D3-803F-9A4F241E8CE0}|Pokedex\\Vista.csproj|c:\\users\\ivani\\pokedex\\pokedex\\pokedex\\regionescons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C976D169-4C82-41D3-803F-9A4F241E8CE0}|Pokedex\\Vista.csproj|solutionrelative:pokedex\\regionescons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegionesCons.cs",
+              "DocumentMoniker": "C:\\Users\\ivani\\POKEDEX\\Pokedex\\Pokedex\\RegionesCons.cs",
+              "RelativeDocumentMoniker": "Pokedex\\RegionesCons.cs",
+              "ToolTip": "C:\\Users\\ivani\\POKEDEX\\Pokedex\\Pokedex\\RegionesCons.cs",
+              "RelativeToolTip": "Pokedex\\RegionesCons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T01:32:54.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegionesDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ivani\\POKEDEX\\Pokedex\\Pokedex\\RegionesDAL.cs",
+              "RelativeDocumentMoniker": "Pokedex\\RegionesDAL.cs",
+              "ToolTip": "C:\\Users\\ivani\\POKEDEX\\Pokedex\\Pokedex\\RegionesDAL.cs",
+              "RelativeToolTip": "Pokedex\\RegionesDAL.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowCoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:18:13.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistroRegion.cs",
+              "DocumentMoniker": "C:\\Users\\ivani\\POKEDEX\\Pokedex\\Pokedex\\RegistroRegion.cs",
+              "RelativeDocumentMoniker": "Pokedex\\RegistroRegion.cs",
+              "ToolTip": "C:\\Users\\ivani\\POKEDEX\\Pokedex\\Pokedex\\RegistroRegion.cs",
+              "RelativeToolTip": "Pokedex\\RegistroRegion.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAIAwwHAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:19:49.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
